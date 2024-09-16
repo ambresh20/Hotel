@@ -1,0 +1,4 @@
+# Ignore mode modules directory
+node_modules/
+
+# others
